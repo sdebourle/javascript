@@ -1,4 +1,4 @@
-#liste de liens
+#listes de liens
 ##javascript
 ##nodejs
-#angularjs
+##angularjs
