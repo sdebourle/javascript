@@ -2,4 +2,4 @@
 [markdown](./markdown.md)  
 [javascript](./javascript.md)  
 [nodejs](./nodejs.md)  
-[angularjst](./angularjs.md)  
+[angularjs](./angularjs.md)  
